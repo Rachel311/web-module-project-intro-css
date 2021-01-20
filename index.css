@@ -1,0 +1,137 @@
+div {
+    margin: auto;
+    width: 80%;
+    border: none;
+  }
+  body {
+    background: #ddb9a3;
+    width: 90%;
+    margin: auto;
+  }
+
+
+
+nav .button1 {
+    background-color: #ff764e;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-family: "Chelsea Market", cursive;
+    border-radius: 25px;
+    padding: 20px, 10px;
+    width: 15%;
+    height: 100px;
+    margin: 9%;
+  }
+  .button2 {
+    background-color: #5ed3eb;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-family: "Chelsea Market", cursive;
+    border-radius: 25px;
+    padding: 20px, 10px;
+    width: 175px;
+    height: 100px;
+    margin: 8%;
+  }
+  .button3 {
+    background-color: #ffcd69;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-family: "Chelsea Market", cursive;
+    border-radius: 25px;
+    padding: 20px, 10px;
+    width: 175px;
+    height: 100px;
+    margin: 9%;
+  }
+  header img {
+    border-radius: 50%;
+    float: left;
+    height: 30%;
+    width: 30%;
+  }
+  h1 {
+    font-size: 60px;
+    font-family: "Chelsea Market", cursive;
+  }
+  h2 {
+    font-family: "Roboto Mono", monospace;
+    font-size: 20px;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    font-family: "Roboto Mono", monospace;
+    
+  }
+  .section {
+    background: #cd5c5c;
+    color: white;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+  footer {
+    background: #f9e7dc;
+  }
+  footer img {
+    height: auto;
+    width: 100%;
+  }
+  .button4 {
+    background-color: #ff764e;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-family: "Chelsea Market", cursive;
+    border-radius: 25px;
+    padding: 20px, 10px;
+    width: 15%;
+    height: 100px;
+    margin: 9%;
+  }
+  .button5 {
+    background-color: #5ed3eb;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-family: "Chelsea Market", cursive;
+    border-radius: 25px;
+    padding: 20px, 10px;
+    width: 175px;
+    height: 100px;
+    margin: 8%;
+  }
+  .button6 {
+    background-color: #ffcd69;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-family: "Chelsea Market", cursive;
+    border-radius: 25px;
+    padding: 20px, 10px;
+    width: 175px;
+    height: 100px;
+    margin: 9%;
+  }
